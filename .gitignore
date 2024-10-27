@@ -1,0 +1,10 @@
+*.hprof
+.DS_Store
+
+build
+local.properties
+.gradle
+
+/.idea/
+
+*.apk
